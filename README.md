@@ -1,5 +1,5 @@
-# BottomNavigationBarr
-Bottom navigation bar with hide caoability with scroll change
+# BottomNavigationBar
+Bottom navigation bar with hide capability with scroll change
 
 <p align="center"><a href="#"><img src="https://drive.google.com/uc?export=download&id=12m0YJCJe7335z41tSRU3-8cNyTM7cnWO" width="150"></a></p> 
 <h2 align="center"><b>Andromeda</b></h2>
@@ -7,7 +7,7 @@ Bottom navigation bar with hide caoability with scroll change
 
 ## Screenshots
 
-[<img src="https://drive.google.com/uc?export=download&id=12fDztOK5ifDDPwsS9gvAbPx2MeAlC2Pl" width=300>] 
- [<img src="https://drive.google.com/uc?export=download&id=12hPzwkaHQMC7rYJFV216KHmk1iojez1J" width=300>] 
- [<img src="https://drive.google.com/uc?export=download&id=12lHlyWb5_-4blScf3SqQfgSC7jpqo0OY" width=300>] 
+[<img src="https://drive.google.com/uc?export=download&id=12fDztOK5ifDDPwsS9gvAbPx2MeAlC2Pl" width=250>] 
+ [<img src="https://drive.google.com/uc?export=download&id=12hPzwkaHQMC7rYJFV216KHmk1iojez1J" width=250>] 
+ [<img src="https://drive.google.com/uc?export=download&id=12lHlyWb5_-4blScf3SqQfgSC7jpqo0OY" width=250>] 
  
