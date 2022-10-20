@@ -1,2 +1,2 @@
 # BottomNavigationBarr
-Bottom navigation bar with hide caoability with scroll change
+Bottom navigation bar with hide capability with scroll change
